@@ -1,11 +1,21 @@
 .style-profile{
-    background-color: aqua;
+    background-color: rgb(217, 221, 221);
     text-align: center;
     width: 90%;
     height: 450px;
+    border-radius: 3px;
 }
 .style-profile img{
     margin-top: 25px;
     width: 200px;
-    border-radius: 5%;
+    border: 3px solid white;
+    /* border-radius: 5px; */
+}
+.btn-regular{
+    background-color: black;
+    width: 150px;
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 5px;
+    color: white;
 }

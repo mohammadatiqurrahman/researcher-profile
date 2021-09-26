@@ -1,8 +1,12 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faCheckSquare} from '@fortawesome/free-solid-svg-icons'
 import './Showprofile.css'
 
 const Showprofile = (props) => {
     // console.log(props.profile)
+    const element = <FontAwesomeIcon icon={faCheckSquare} />
+
     const {name,age,title,salary,img,country} = props.profile
     return (
         <div className="style-profile">
@@ -12,7 +16,7 @@ const Showprofile = (props) => {
          <p>Age: {age}</p>
          <p>Country: {country}</p>
          <p>Salary: ${salary}</p>
-         <button onClick={()=>{props.handleProfile(props.profile)}}>Select Profile</button>
+         <button className="btn-regular" onClick={()=>{props.handleProfile(props.profile)}}>{element} Select Profile</button>
         </div>
     );
 };

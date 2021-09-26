@@ -1,6 +1,11 @@
-/* .imgages img{
-    width: 100px;
-} */
-/* .cart-profile{
-    display: flex;
-} */
+.cart-summary{
+    text-align: center;
+    background-color: rgb(117, 117, 119);
+    margin-left: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    /* margin-top: 10px; */
+    color: white;
+    margin-right: 10px;
+    padding: 25px;
+    border-radius: 5px;
+}
