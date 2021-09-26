@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [researcher-profile-live-site](https://zen-shannon-18bad9.netlify.app/).
 
-## SITE INFO
+## ReSEARCH Dialogues Conference Details
 
-In the project directory, you can run:
+* WHEN: Tuesday, April 12 and Wednesday April 13, 2022.
+* WHERE: UTC University Center
+
+
 
 ### `npm start`
 
