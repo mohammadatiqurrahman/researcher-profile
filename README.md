@@ -9,7 +9,12 @@ This project was bootstrapped with [researcher-profile-live-site](https://zen-sh
 
 
 
-### `npm start`
+## Ways to Participate in RD 2022
+* Attend conference events on April 12 and 13, 2022.
+* Encourage colleagues and students to present research and creative works.
+* Publicize the conference within your department, college, or unit.
+* Promote the conference on social media.
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
