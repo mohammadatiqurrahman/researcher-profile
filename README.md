@@ -1,6 +1,6 @@
 # 2021 RESEARCH DIALOGUE COMPETITION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [researcher-profile-live-site](https://zen-shannon-18bad9.netlify.app/).
 
 ## Available Scripts
 
