@@ -2,10 +2,11 @@
     background-color: rgb(52, 46, 77);
     width: 90%;
     margin-left: 5%;
-    margin-top: 25px;
+    /* margin-top: 25px; */
     text-align: center;
     padding: 25px 0px;
-    border-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .heading-style{
     color: rgb(247, 90, 51);

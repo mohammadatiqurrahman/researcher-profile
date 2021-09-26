@@ -13,7 +13,7 @@ const Profilecart = (props) => {
         <div className="cart-summary"> 
             <div className="profile-cart">
                 <h4>{element} Profile Selected: {props.cart.length}</h4>
-                <p>Total Amount: ${salaries} <br/></p>
+                <p>Total Amount: $ {salaries} <br/></p>
                 {
                      props.cart.map(pname=><li>{pname.name}</li>)
                 }
