@@ -1,4 +1,4 @@
-# 2021 RESEARCH DIALOGUE COMPETITION
+# 2022 RESEARCH DIALOGUE COMPETITION
 
 This project was bootstrapped with [researcher-profile-live-site](https://zen-shannon-18bad9.netlify.app/).
 
