@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [researcher-profile-live-site](https://zen-shannon-18bad9.netlify.app/).
 
-## Available Scripts
+## SITE INFO
 
 In the project directory, you can run:
 
