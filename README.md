@@ -2,15 +2,18 @@
 
 This project was bootstrapped with [researcher-profile-live-site](https://zen-shannon-18bad9.netlify.app/).
 
-## ReSEARCH Dialogues Conference Details
+## Main Points
 
-* WHEN: Tuesday, April 12 and Wednesday April 13, 2022.
-* WHERE: UTC University Center
+* Show Details of Researchers
+* Calculate their gross salary and show their salary in CART
+* Identify which researcher is selected
 
 
 
-## Ways to Participate in RD 2022
-* Attend conference events on April 12 and 13, 2022.
-* Encourage colleagues and students to present research and creative works.
-* Publicize the conference within your department, college, or unit.
-* Promote the conference on social media.
+## Development Tools
+* React
+* Pure css
+* Icon - font-awesome
+## Other resources
+* Create Custom Api
+* Use default font
